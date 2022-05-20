@@ -11,8 +11,20 @@ step 1 : install selenium basic
 step 2 : copy chromedriver.exe ke folder C:\Users\user\AppData\Local\SeleniumBasic
 step 3 : jalankan VBA
 
-Minimal version Excel 2010 dengan macro posisi aktif.
-semoga bermanfaat
+rMinimal version Excel 2010 dengan macro posisi aktif.
+
+
+
+**Lisensi : Free & Open Source **
+
+**OpenDonate**
+Kami membuka OpenDonate untuk pengembangan Aplikasi ini. 
+bisa melalui Akun OVO ke nomor : **0812-1718-1715**
+
+Kritik saran bisa kenomor WA : **https://wa.me/6281217181715**
+
+Semoga bermanfaat
+
 
 
 
